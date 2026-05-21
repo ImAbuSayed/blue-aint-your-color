@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Blue Ain’t Your Color
+
+This log tracks the cryptographic history and versioning for the song **Blue Ain’t Your Color** (blue-aint-your-color).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-22T05:49:30.219358 | `v1` | `2ca3bb236189b68cebcfe4a1602719f3bdca562dbb0976e3df88cd11a11c0c2d` | `dcb1dd4bb3ad1e0807a294e346de3896440b3e80572f8274f967ab24ad596dd2` | `2026-05-22_blue-aint-your-color-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*

@@ -15,7 +15,7 @@
 | **Written On** | May 19, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/blue-aint-your-color/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Music Rights & Licensing for Blue Ain’t Your Color](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/blue-aint-your-color/) |
+| **Get License** | [License this song: Blue Ain’t Your Color](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/blue-aint-your-color/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Caught in the glow of the neon light
+> You got a fire that I want tonight
+> Pulling me closer with every sway
+> Let’s make a memory we won't throw away
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)

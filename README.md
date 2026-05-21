@@ -15,7 +15,7 @@
 | **Written On** | May 19, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/blue-aint-your-color/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Request Licensing for Blue Ain’t Your Color](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/blue-aint-your-color/) |
+| **Get License** | [Get a Licensing Quote for Blue Ain’t Your Color](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/blue-aint-your-color/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -39,6 +39,12 @@
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
+
+---
+
+## 🔗 Song Links
+
+- [Telegram](https://t.me/AbuSayedMusic/1889)
 
 ---
 
